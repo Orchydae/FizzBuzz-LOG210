@@ -1,4 +1,5 @@
 // import hello from "../hello";
+import fizzbuzz from "../fizzbuzz";
 
 describe('FizzBuzz tdd test', () => {
 
