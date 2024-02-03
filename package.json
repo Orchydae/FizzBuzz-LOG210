@@ -5,6 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "test": "jest  --coverage --watchAll --env=jsdom",
+    "fizzbuzz": "jest fizzbuzz.test.ts --coverage",
     "coverage": "jest --coverage --watchAll --env=jsdom"
   },
   "repository": {
